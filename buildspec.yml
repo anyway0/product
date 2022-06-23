@@ -97,7 +97,7 @@ phases:
                     resources:
                       limits:
                         cpu: 500m
-                    requests:
+                      requests:
                         cpu: 200m
           EOF
 
